@@ -1,6 +1,24 @@
 {
   "games": [
     {
+      "name": "Fallout",
+      "image": "https://cdn2.steamgriddb.com/icon_thumb/0fc55b68b62a7bdc44bfc347f48d4277.png",
+      "author": "Justy",
+      "author_url": "",
+      "version": "",
+      "description": "Freedoom is a complete, free content first person shooter game, based on the Doom engine.",
+      "download_link": ""
+    },
+    {
+      "name": "Fallout 2",
+      "image": "https://cdn2.steamgriddb.com/icon/f037f3c3ae59cd2f7d5e4f1afef1e95e/32/256x256.png",
+      "author": "Milenko",
+      "author_url": "",
+      "version": "",
+      "description": "Freedoom is a complete, free content first person shooter game, based on the Doom engine.",
+      "download_link": ""
+    },
+    {
       "name": "Freedoom (Doom-X)",
       "image": "https://www.gamebrew.org/images/7/72/Doomxcl2.png",
       "author": "Carcharius, LikkleBaer",
@@ -83,7 +101,7 @@
     },
     {
       "name": "Quake 3 (Shareware) (Quake3X)",
-      "image": "",
+      "image": "https://cdn2.steamgriddb.com/icon/7dd6af0d70340195c48c002ebe5e4aac.ico",
       "author": "carcharius",
       "author_url": "",
       "version": "",
