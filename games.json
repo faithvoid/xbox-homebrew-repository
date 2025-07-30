@@ -31,6 +31,16 @@
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/FreeDoomX.zip"
     },
     {
+      "name": "Freedoom (Doom Legacy)",
+      "image": "https://lutris.net/media/igdb/cover_big/co3922.jpg",
+      "author": "Carcharius",
+      "author_url": "",
+      "version": "2.2 beta",
+      "needs_files": "no",
+      "description": "Freedoom is a complete, free content first person shooter game, based on the Doom engine.",
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/FreeDoomLegacy.zip"
+    },
+    {
       "name": "Doom (Shareware) (Doom-X)",
       "image": "https://lutris.net/media/igdb/cover_big/co1v7f.jpg",
       "author": "Carcharius, LikkleBaer",
@@ -39,6 +49,16 @@
       "needs_files": "no",
       "description": "An unnamed marine fights for survival on a space station on Mars where the Union Aerospace Corporation accidentally opened up a physical portal to Hell.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/DoomX.zip"
+    },
+    {
+      "name": "Doom (Shareware) (Doom Legacy)",
+      "image": "https://lutris.net/media/igdb/cover_big/co1v7f.jpg",
+      "author": "Carcharius",
+      "author_url": "",
+      "version": "2.2 beta",
+      "needs_files": "no",
+      "description": "An unnamed marine fights for survival on a space station on Mars where the Union Aerospace Corporation accidentally opened up a physical portal to Hell.",
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/DoomLegacy.zip"
     },
     {
       "name": "Blasphemer (xHeretic)",
