@@ -17,6 +17,15 @@
       "version": "2023-01-03",
       "description": "Small, PoC-type tool to patch Xbox BIOSes in RAM in order to disable patching code that makes the BIOS block XBL.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/software/Insignia%20Setup.zip"
+    },
+    {
+      "name": "Cromwell",
+      "image": "https://avatars.githubusercontent.com/u/64635852?s=200&v=4",
+      "author": "XboxDev",
+      "author_url": "",
+      "version": "20250529-86f5473",
+      "description": "Cromwell is a free, legal BIOS replacement for the original Xbox. It is capable of loading Linux from the Xbox's Hard Disk, and CD-ROM. It is not able to load original Xbox games, neither originals nor copies.",
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/software/Cromwell.zip"
     }
   ]
 }
