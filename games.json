@@ -1,21 +1,21 @@
 {
   "games": [
     {
-      "name": "Fallout",
+      "name": "Fallout (fallout1-ce-xbox)",
       "image": "https://cdn2.steamgriddb.com/icon_thumb/0fc55b68b62a7bdc44bfc347f48d4277.png",
       "author": "Justy",
       "author_url": "",
       "version": "",
-      "description": "Freedoom is a complete, free content first person shooter game, based on the Doom engine.",
+      "description": "Fallout is a 1997 role-playing video game developed and published by Interplay Productions, set in a mid-22nd century post-apocalyptic and retro-futuristic world, decades after a global nuclear war led by the United States and China. Fallout's protagonist, the Vault Dweller, inhabits an underground nuclear shelter. The player must scour the surrounding wasteland for a computer chip that can fix the Vault's failed water supply system. They interact with other survivors, some of whom give them quests, and engage in turn-based combat.\n(Requires Fallout files!)",
       "download_link": ""
     },
     {
-      "name": "Fallout 2",
+      "name": "Fallout 2 (fallout2-ce-xbox)",
       "image": "https://cdn2.steamgriddb.com/icon/f037f3c3ae59cd2f7d5e4f1afef1e95e/32/256x256.png",
       "author": "Milenko",
       "author_url": "",
       "version": "",
-      "description": "Freedoom is a complete, free content first person shooter game, based on the Doom engine.",
+      "description": "Fallout 2 is a 1998 role-playing video game developed by Black Isle Studios and published by Interplay Productions. It is a sequel to Fallout (1997), featuring similar graphics and game mechanics. The game's story takes place in 2241, 79 years after the events of Fallout and 164 years after the atomic war which reduced the vast majority of the world to a nuclear wasteland. The player assumes the role of the Chosen One, the grandchild of the first game's protagonist, and undertakes a quest to save their small village on the West Coast of the United States.\n(Requires Fallout 2 files!)",
       "download_link": ""
     },
     {
