@@ -5,7 +5,7 @@
       "image": "https://lutris.net/media/igdb/cover_big/co1ybn.jpg",
       "author": "Justy",
       "author_url": "",
-      "version": "",
+      "version": "0.1.0 alpha",
       "needs_files": "yes",
       "description": "Fallout is a 1997 role-playing video game developed and published by Interplay Productions, set in a mid-22nd century post-apocalyptic and retro-futuristic world, decades after a global nuclear war led by the United States and China. Fallout's protagonist, the Vault Dweller, inhabits an underground nuclear shelter. The player must scour the surrounding wasteland for a computer chip that can fix the Vault's failed water supply system. They interact with other survivors, some of whom give them quests, and engage in turn-based combat.\n(Requires Fallout files!)",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/Fallout.zip"
@@ -15,7 +15,7 @@
       "image": "https://lutris.net/media/igdb/cover_big/co1u61.jpg",
       "author": "Milenko",
       "author_url": "",
-      "version": "",
+      "version": "0.1",
       "needs_files": "yes",
       "description": "Fallout 2 is a 1998 role-playing video game developed by Black Isle Studios and published by Interplay Productions. It is a sequel to Fallout (1997), featuring similar graphics and game mechanics. The game's story takes place in 2241, 79 years after the events of Fallout and 164 years after the atomic war which reduced the vast majority of the world to a nuclear wasteland. The player assumes the role of the Chosen One, the grandchild of the first game's protagonist, and undertakes a quest to save their small village on the West Coast of the United States.\n(Requires Fallout 2 files!)",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/Fallout2.zip"
@@ -25,7 +25,7 @@
       "image": "https://lutris.net/media/igdb/cover_big/co3922.jpg",
       "author": "Carcharius, LikkleBaer",
       "author_url": "",
-      "version": "",
+      "version": "2.2 beta",
       "needs_files": "no",
       "description": "Freedoom is a complete, free content first person shooter game, based on the Doom engine.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/FreeDoomX.zip"
@@ -35,7 +35,7 @@
       "image": "https://lutris.net/media/igdb/cover_big/co1v7f.jpg",
       "author": "Carcharius, LikkleBaer",
       "author_url": "",
-      "version": "",
+      "version": "2.2 beta",
       "needs_files": "no",
       "description": "An unnamed marine fights for survival on a space station on Mars where the Union Aerospace Corporation accidentally opened up a physical portal to Hell.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/DoomX.zip"
@@ -44,7 +44,7 @@
       "name": "Blasphemer (xHeretic)",
       "image": "https://lutris.net/media/igdb/cover_big/co3rks.jpg",
       "author": "A600, faithvoid",
-      "author_url": "",
+      "author_url": "1.1",
       "version": "",
       "needs_files": "no",
       "description": "Blasphemer aims to create a free content package for the Heretic engine, with a theme of metal-inspired dark fantasy.",
@@ -55,7 +55,7 @@
       "image": "https://lutris.net/media/igdb/cover_big/co1mwz.jpg",
       "author": "A600",
       "author_url": "",
-      "version": "",
+      "version": "1.1",
       "needs_files": "no",
       "description": "Heretic: Shadow of the Serpent Riders is a dark fantasy, spellcasting, first-person shooter developed by Raven Software and published by id Software in 1994.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/xHeretic.zip"
@@ -65,7 +65,7 @@
       "image": "https://lutris.net/media/igdb/cover_big/co1mwy.jpg",
       "author": "A600",
       "author_url": "",
-      "version": "",
+      "version": "1.1",
       "needs_files": "no",
       "description": "As a Warrior, Mage, or Cleric, you must fight the undead, and brave elemental dungeons and decaying wilderness to defend your realm of Cronos.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/xHexen.zip"
@@ -73,9 +73,9 @@
     {
       "name": "LibreQuake (QuakeX)",
       "image": "https://dl.flathub.org/media/io/github/lavenderdotpet.LibreQuake/a10e3045b7c745a55e833a28f7732f63/icons/128x128@2/io.github.lavenderdotpet.LibreQuake.png",
-      "author": "Lantus + faithvoid",
+      "author": "Lantus + LibreQuake Team + faithvoid",
       "author_url": "",
-      "version": "",
+      "version": "1.01",
       "needs_files": "no",
       "description": "LibreQuake is a free software data replacement for Quake 1 in the spirit of Freedoom and Blasphemer.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/LibreQuakeX.zip"
@@ -85,7 +85,7 @@
       "image": "https://lutris.net/media/igdb/cover_big/co1ybm.jpg",
       "author": "Lantus",
       "author_url": "",
-      "version": "",
+      "version": "1.01",
       "needs_files": "no",
       "description": "Your accelerator and breaks have failed. Try to balance your thrust against gravity. Collect pick-ups to for fuel bonus. How long before your tanks is dry?",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/QuakeX.zip"
@@ -94,7 +94,7 @@
       "name": "Quake 2 (Shareware) (Quake2X-LE)",
       "image": "https://lutris.net/media/igdb/cover_big/co1ybl.jpg",
       "author": "Lantus",
-      "author_url": "",
+      "author_url": "1.00",
       "version": "",
       "needs_files": "no",
       "description": "Your accelerator and breaks have failed. Try to balance your thrust against gravity. Collect pick-ups to for fuel bonus. How long before your tanks is dry?",
@@ -105,7 +105,7 @@
       "image": "https://lutris.net/media/igdb/cover_big/co1ybj.jpg",
       "author": "carcharius",
       "author_url": "",
-      "version": "",
+      "version": "1.0",
       "needs_files": "no",
       "description": "Quake III Arena is a critically acclaimed, multiplayer-focused, arena first-person shooter developed by id Software and released in 1999.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/Quake3X.zip"
@@ -115,7 +115,7 @@
       "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5jgy.webp",
       "author": "carcharius + OpenArena team + faithvoid",
       "author_url": "",
-      "version": "",
+      "version": "1.0",
       "needs_files": "no",
       "description": "OpenArena is a free and open source first-person shooter (FPS) game based heavily on the Quake III Arena style deathmatch.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/OpenArenaX.zip"
@@ -135,7 +135,7 @@
       "image": "https://lutris.net/media/igdb/cover_big/co2604.jpg",
       "author": "th0mas",
       "author_url": "",
-      "version": "",
+      "version": "2006",
       "needs_files": "no",
       "description": "Wolf3D is a port of the classic id first person shooter Wolfenstein 3D using OpenXDK. It comes all ready to play with the shareware data files, however it does not work with the registered datafiles or expansion packs.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/wolf3d-xbox.zip"
@@ -145,7 +145,7 @@
       "image": "",
       "author": "carcharius + Golden Hammer + faithvoid",
       "author_url": "",
-      "version": "",
+      "version": "1.0",
       "needs_files": "no",
       "description": "Bid For Power is a total conversion for Quake III that plays nothing like the original game. Players take control of Ki-powered superheros and battle it out in a mostly aerial fight. The game is highlighted by the work of a great art team and an original style, and the gameplay is extremely fast paced.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/BidForPowerX.zip"
@@ -155,7 +155,7 @@
       "image": "",
       "author": "freakdave",
       "author_url": "",
-      "version": "",
+      "version": "2004",
       "needs_files": "no",
       "description": "Destroy a fleet of alien invaders, blast open power ups, and save the earth in this off beat vertical shooter. The action takes place top down as you blast your way through 4 action packed levels of shooting mayhem. Do you have what it takes to be a Hero of Roswell?",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/Heroes%20of%20RoswellX.zip"
@@ -165,7 +165,7 @@
       "image": "",
       "author": "HCF",
       "author_url": "",
-      "version": "",
+      "version": "2020",
       "needs_files": "no",
       "description": "The aim of Hocoslamfy is to steer your character, a bee, in the space between columns made of bamboo shoots: one that ascends from the ground, and one that descends from the sky (don't ask why - game logic). One point is awarded per column of bamboo after you successfully steer the bee into its space. The game ends when the bee crashes into a bamboo shoot or you fly into the upper or lower edge of the screen.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/HocoslamfyX.zip"
@@ -175,7 +175,7 @@
       "image": "",
       "author": "lubby",
       "author_url": "",
-      "version": "",
+      "version": "3.0",
       "needs_files": "no",
       "description": "InvaderX, also known as INVADER-X3, is a Space Invader clone for the Xbox.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/InvaderX3.zip"
@@ -185,7 +185,7 @@
       "image": "",
       "author": "freakdave",
       "author_url": "",
-      "version": "",
+      "version": "3",
       "needs_files": "no",
       "description": "You're a cute little bunny and you have to avoid the other bunnies from stomping on you and at the same time try to stomp as many opponents as possible. It is multiplayer only with up to four players simultaneously. Gather the local crew and have a blast. Jump 'n BumpX has already included 20 levels, you can also add extra levels by placing them in /data/maps/ directory.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/Jump_n_BumpX_v3.zip"
@@ -195,7 +195,7 @@
       "image": "",
       "author": "KaMbiOkIkA",
       "author_url": "",
-      "version": "",
+      "version": "1.0",
       "needs_files": "no",
       "description": "Delirium is sort of an arcade/puzzle mixture. Its basic idea is rather simple: clear the level from blocks. In the top of the screen there are various colored blocks, or plates. You must get rid of those very same blocks in order to advance to the next level.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/KMBXDelirium.zip"
@@ -205,7 +205,7 @@
       "image": "",
       "author": "KaMbiOkIkA",
       "author_url": "",
-      "version": "",
+      "version": "1.0",
       "needs_files": "no",
       "description": "KMBXX Galaga is a Xbox adaptation of the game XGalaga. It is an open source port of the popular X11 game XGalaga, a clone of Galaga, using the SDL (Simple DirectMedia Layer) library.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/KMBXXGalaga.zip"
