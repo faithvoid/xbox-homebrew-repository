@@ -5,7 +5,7 @@
       "image": "",
       "author": "Insignia Team",
       "author_url": "",
-      "version": "",
+      "version": "2025-01-19",
       "description": "The Insignia Setup Assistant is a small application that will allow you to register your console with Insignia. The method of launching the Setup Assistant will depend on the current state of your console.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/software/Insignia%20Setup.zip"
     }
