@@ -15,7 +15,7 @@
       "author": "Insignia Team",
       "author_url": "",
       "version": "2023-01-03",
-      "description": "The Insignia Setup Assistant is a small application that will allow you to register your console with Insignia. The method of launching the Setup Assistant will depend on the current state of your console.",
+      "description": "Small, PoC-type tool to patch Xbox BIOSes in RAM in order to disable patching code that makes the BIOS block XBL.",
       "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/software/Insignia%20Setup.zip"
     }
   ]
