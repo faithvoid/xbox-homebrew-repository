@@ -1,0 +1,396 @@
+{
+  "emulators": [
+    {
+      "name": "OdysseyX",
+      "description": "Magnavox Odyssey 2 emulator.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Z26X",
+      "description": "Atari 2600 emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "PCSXBox",
+      "description": "PSX emulator.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "NeoGensPlusGX",
+      "description": "Sega Genesis/Megadrive, 32X, SegaCD/MegaCD, Sega Master System, Game Gear, SG-1000, SC-3000, SF-7000, MK3 emulator.",
+      "author": "XtecuterX73, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "MessTrex",
+      "description": "GCE Vectrex emulator. Based on a7800x MESS core and Xvextrex by Chips.",
+      "author": "Chips, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "MekaX",
+      "description": "Sega SMS/GG/SG-1000/SC-3000/SF-7000/MK3 port. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Neogenesis For Xbox",
+      "description": "Sega Genesis/Megadrive/32X/SegaCD/MegaCD emulator.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "MednafenX-PCE",
+      "description": "PCE/TG16 emulator. Orignal by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "MednafenX-NES",
+      "description": "NES emulator.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Blissx",
+      "description": "Intellivision emulator. Original by Xport.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Atari7800x",
+      "description": "Atari 7800 emulator ported from MESS. Originally by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "NestopiaX",
+      "description": "NES emulator for the Xbox.",
+      "author": "XtecuterX73",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Uzeboxx",
+      "description": "Cuzebox emulator.",
+      "author": "HCF",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "MessoXtras",
+      "description": "MESS emulator ported to Xbox.",
+      "author": "HCF, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Multi-Platform emulator.",
+      "author": "Libretro",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Surreal64CE",
+      "description": "Nintendo 64 emulator for Xbox.",
+      "author": "weinerschnitzel, Ez0n3, Joel Middendorf, freakdave",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "SNES9XBox",
+      "description": "SNES Super Nintendo emulator.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Virtual JaguarX",
+      "description": "Atari Jaguar emulator.",
+      "author": "HCF",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "MuchimeX: Multi Chinese Machine Emulator for Xbox",
+      "description": "Multi Chinese Machine Emulator, it emulates the SPG2XX family processors manufactured by Sunplus.",
+      "author": "HCF",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Yabause CE PUBLIC",
+      "description": "Sega Saturn emulator. Port of Yabause.",
+      "author": "freakdave",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "3dox",
+      "description": "3DO emulator based on 4DO/Freedo.",
+      "author": "incrediclint",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Final Burn Consoles",
+      "description": "Sega Genesis, Neo Geo AES and Capcom CPS Changer emulator. Based off Final Burn Legends that contains only home console systems supported by FBA.",
+      "author": "+ T +",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "xNeoRaine",
+      "description": "Neo Geo CD emulator.",
+      "author": "A600",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "SoftVMUX",
+      "description": "Sega Dreamcast VMY emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "VirtualBoyX",
+      "description": "Virtual Boy emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "SuperVisionX",
+      "description": "Watara Supervision emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "WonderSwanX",
+      "description": "WonderSwan emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "PokemonMiniX",
+      "description": "Pokemon Mini emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "NeoPopX",
+      "description": "NeoGeo Pocket/NeoGeo Pocket Color emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "MednafenX-Lynx",
+      "description": "Atari Lynx emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "XBoyAdvance",
+      "description": "GBA/GBC/GB/SGB/SGB2 emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "MADrigalX",
+      "description": "Port of the Game and Watch handheld simulators developed by Luca Antignano (MADrigal).",
+      "author": "HCF",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "DesmumeX",
+      "description": "Nintendo DS emulator based on Desmume v0.9.11.",
+      "author": "HCF",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "GBAx",
+      "description": "Game Boy Advance emulator.",
+      "author": "Unknown",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "MAMEoXtras 10th anniversary",
+      "description": "MAME/Arcade emulator, based on MameDOX which itself is based on MAMEoX.",
+      "author": "Erik Abair et al.",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Final Burn Legends",
+      "description": "Final Burn Alpha 2.99.07 and FBA-XXX Pro 1.29 port for the Xbox.",
+      "author": "arcadez (gamezfan)",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "xRaine",
+      "description": "Port for Raine by Antiriad and Emmanuel Anne (Tux).",
+      "author": "A600",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "KIxxx",
+      "description": "U64 arcade emulator for Killer instinct 1 and 2 (KI1 and 2).",
+      "author": "Team Logic-Sunrise (Team XXX), SPPV",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "DaphneX",
+      "description": "LaserDisc arcade machine emulator. Port of Daphne developed by Matt Ownby.",
+      "author": "Unknown",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "DidntXSpectrum",
+      "description": "Spectrum emulator. Ported from FUSE.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "WinUAEX",
+      "description": "Amiga emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "X68000X",
+      "description": "X6800 home computer emulator. Original by Xport.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Vice64X",
+      "description": "Commodore 64 emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "VicePETX",
+      "description": "Commodore Pet emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Vice20X",
+      "description": "Commodore VIC-20 emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "KEGS-X",
+      "description": "Apple IIgs/e/c/+ emulator port. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Classic99x",
+      "description": "Texas Instruments 99 emulator.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "BlueMSXBox",
+      "description": "MSX/MSX2/MSX2+ emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "ArnoldX",
+      "description": "Amstrad CPC emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "AtariXLBox",
+      "description": "Atari 800/5200/XL/XE Emulator port. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Chip8X",
+      "description": "CHIP8/SuperCHIP8 emulator.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "AdamX",
+      "description": "Colecovision/Adam emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "SamCoupeX",
+      "description": "SAM Coupe computer emulator.",
+      "author": "HCF, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "Neko Project2X",
+      "description": "PC-98 emulator. Port of Neko Project II.",
+      "author": "HCF",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "WinSTonX",
+      "description": "Atari ST emulator. Original by XPort.",
+      "author": "XPort, Madmab",
+      "image": "",
+      "download_link": ""
+    },
+    {
+      "name": "ScummVM XBOX",
+      "description": "Port of ScummVM.",
+      "author": "Unknown",
+      "image": "",
+      "download_link": ""
+    }
+  ]
+}
