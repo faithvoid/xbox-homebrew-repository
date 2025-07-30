@@ -2,133 +2,124 @@
   "games": [
     {
       "name": "Fallout (fallout1-ce-xbox)",
-      "image": "https://cdn2.steamgriddb.com/icon_thumb/0fc55b68b62a7bdc44bfc347f48d4277.png",
+      "image": "https://lutris.net/media/igdb/cover_big/co1ybn.jpg",
       "author": "Justy",
       "author_url": "",
       "version": "",
       "description": "Fallout is a 1997 role-playing video game developed and published by Interplay Productions, set in a mid-22nd century post-apocalyptic and retro-futuristic world, decades after a global nuclear war led by the United States and China. Fallout's protagonist, the Vault Dweller, inhabits an underground nuclear shelter. The player must scour the surrounding wasteland for a computer chip that can fix the Vault's failed water supply system. They interact with other survivors, some of whom give them quests, and engage in turn-based combat.\n(Requires Fallout files!)",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/Fallout.zip"
     },
     {
       "name": "Fallout 2 (fallout2-ce-xbox)",
-      "image": "https://cdn2.steamgriddb.com/icon/f037f3c3ae59cd2f7d5e4f1afef1e95e/32/256x256.png",
+      "image": "https://lutris.net/media/igdb/cover_big/co1u61.jpg",
       "author": "Milenko",
       "author_url": "",
       "version": "",
       "description": "Fallout 2 is a 1998 role-playing video game developed by Black Isle Studios and published by Interplay Productions. It is a sequel to Fallout (1997), featuring similar graphics and game mechanics. The game's story takes place in 2241, 79 years after the events of Fallout and 164 years after the atomic war which reduced the vast majority of the world to a nuclear wasteland. The player assumes the role of the Chosen One, the grandchild of the first game's protagonist, and undertakes a quest to save their small village on the West Coast of the United States.\n(Requires Fallout 2 files!)",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/Fallout2.zip"
     },
     {
       "name": "Freedoom (Doom-X)",
-      "image": "https://www.gamebrew.org/images/7/72/Doomxcl2.png",
+      "image": "https://lutris.net/media/igdb/cover_big/co3922.jpg",
       "author": "Carcharius, LikkleBaer",
       "author_url": "",
       "version": "",
       "description": "Freedoom is a complete, free content first person shooter game, based on the Doom engine.",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/FreeDoomX.zip"
     },
     {
       "name": "Doom (Shareware) (Doom-X)",
-      "image": "https://www.gamebrew.org/images/7/72/Doomxcl2.png",
+      "image": "https://lutris.net/media/igdb/cover_big/co1v7f.jpg",
       "author": "Carcharius, LikkleBaer",
       "author_url": "",
       "version": "",
       "description": "An unnamed marine fights for survival on a space station on Mars where the Union Aerospace Corporation accidentally opened up a physical portal to Hell.",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/DoomX.zip"
     },
     {
       "name": "Blasphemer (xHeretic)",
-      "image": "",
+      "image": "https://lutris.net/media/igdb/cover_big/co3rks.jpg",
       "author": "A600, faithvoid",
       "author_url": "",
       "version": "",
       "description": "Blasphemer aims to create a free content package for the Heretic engine, with a theme of metal-inspired dark fantasy.",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/xBlasphemer.zip"
     },
     {
       "name": "Heretic (Shareware) (xHeretic)",
-      "image": "",
+      "image": "https://lutris.net/media/igdb/cover_big/co1mwz.jpg",
       "author": "A600",
       "author_url": "",
       "version": "",
       "description": "Heretic: Shadow of the Serpent Riders is a dark fantasy, spellcasting, first-person shooter developed by Raven Software and published by id Software in 1994.",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/xHeretic.zip"
     },
     {
       "name": "Hexen (Shareware) (xHexen)",
-      "image": "",
+      "image": "https://lutris.net/media/igdb/cover_big/co1mwy.jpg",
       "author": "A600",
       "author_url": "",
       "version": "",
       "description": "As a Warrior, Mage, or Cleric, you must fight the undead, and brave elemental dungeons and decaying wilderness to defend your realm of Cronos.",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/xHexen.zip"
     },
     {
       "name": "LibreQuake (QuakeX)",
-      "image": "",
+      "image": "https://dl.flathub.org/media/io/github/lavenderdotpet.LibreQuake/a10e3045b7c745a55e833a28f7732f63/icons/128x128@2/io.github.lavenderdotpet.LibreQuake.png",
       "author": "Lantus + faithvoid",
       "author_url": "",
       "version": "",
       "description": "LibreQuake is a free software data replacement for Quake 1 in the spirit of Freedoom and Blasphemer.",
-      "download_link": ""
-    },
-    {
-      "name": "LibreQuake (QuakeX)",
-      "image": "",
-      "author": "Lantus + faithvoid",
-      "author_url": "",
-      "version": "",
-      "description": "LibreQuake is a free software data replacement for Quake 1 in the spirit of Freedoom and Blasphemer.",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/LibreQuakeX.zip"
     },
     {
       "name": "Quake (Shareware) (QuakeX)",
-      "image": "",
+      "image": "https://lutris.net/media/igdb/cover_big/co1ybm.jpg",
       "author": "Lantus",
       "author_url": "",
       "version": "",
       "description": "Your accelerator and breaks have failed. Try to balance your thrust against gravity. Collect pick-ups to for fuel bonus. How long before your tanks is dry?",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/QuakeX.zip"
     },
     {
       "name": "Quake 2 (Shareware) (Quake2X-LE)",
-      "image": "",
+      "image": "https://lutris.net/media/igdb/cover_big/co1ybl.jpg",
       "author": "Lantus",
       "author_url": "",
       "version": "",
       "description": "Your accelerator and breaks have failed. Try to balance your thrust against gravity. Collect pick-ups to for fuel bonus. How long before your tanks is dry?",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/Quake2X.zip"
     },
     {
       "name": "Quake 3 (Shareware) (Quake3X)",
-      "image": "https://cdn2.steamgriddb.com/icon/7dd6af0d70340195c48c002ebe5e4aac.ico",
+      "image": "https://lutris.net/media/igdb/cover_big/co1ybj.jpg",
       "author": "carcharius",
       "author_url": "",
       "version": "",
       "description": "Quake III Arena is a critically acclaimed, multiplayer-focused, arena first-person shooter developed by id Software and released in 1999.",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/Quake3X.zip"
     },
     {
       "name": "OpenArena (Quake3X)",
-      "image": "",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5jgy.webp",
       "author": "carcharius + OpenArena team + faithvoid",
       "author_url": "",
       "version": "",
       "description": "OpenArena is a free and open source first-person shooter (FPS) game based heavily on the Quake III Arena style deathmatch.",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/OpenArenaX.zip"
     },
     {
       "name": "Half-Life (Shareware) (Xash3D)",
-      "image": "",
+      "image": "https://lutris.net/media/igdb/cover_big/co1tnt.jpg",
       "author": "carcharius + OpenArena team + faithvoid",
       "author_url": "",
       "version": "",
       "description": "Half-Life's debut title blends action and adventure with award-winning technology to create a frighteningly immersive world where players must think to survive. (Requires 128MB of RAM!)",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/Xash3D.zip"
     },
     {
       "name": "Wolfenstein 3D (Shareware)",
-      "image": "",
+      "image": "https://lutris.net/media/igdb/cover_big/co2604.jpg",
       "author": "th0mas",
       "author_url": "",
       "version": "",
@@ -142,7 +133,7 @@
       "author_url": "",
       "version": "",
       "description": "Bid For Power is a total conversion for Quake III that plays nothing like the original game. Players take control of Ki-powered superheros and battle it out in a mostly aerial fight. The game is highlighted by the work of a great art team and an original style, and the gameplay is extremely fast paced.",
-      "download_link": ""
+      "download_link": "https://github.com/faithvoid/xbox-homebrew-repository/raw/refs/heads/main/games/BidForPowerX.zip"
     },
     {
       "name": "Heroes of Roswell",
