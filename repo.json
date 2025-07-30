@@ -2,7 +2,7 @@
   "games": [
     {
       "name": "Freedoom (Doom-X)",
-      "image": "",
+      "image": "https://www.gamebrew.org/images/7/72/Doomxcl2.png",
       "author": "Carcharius, LikkleBaer",
       "author_url": "",
       "version": "",
@@ -11,7 +11,7 @@
     },
     {
       "name": "Doom (Shareware) (Doom-X)",
-      "image": "",
+      "image": "https://www.gamebrew.org/images/7/72/Doomxcl2.png",
       "author": "Carcharius, LikkleBaer",
       "author_url": "",
       "version": "",
